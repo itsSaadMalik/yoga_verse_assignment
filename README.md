@@ -13,6 +13,7 @@ The assignment was actually challenging and i did learn new things like
 Used RiverPod for statemanagement and tried using injections in possible places 
 And tried to  make things as losely coupled as possible
 
+<h3>for Navigation i have used navigator 2.0 simple for this small app </h3>
 <h3>Auth :</h3>
 used firebase Auth for user authentication along side clean and friendly UI
 
