@@ -37,6 +37,6 @@ FirebaseFirestore
 13. home screen diplays the connectivity type and thier live status as well.
  
 </p>
- <a href src="https://github.com/itsSaadMalik/yoga_verse_assignment/blob/main/sample%20screen-shots%20file.md">Check this for some viewing screen shots</a>
+ <a href  ="https://github.com/itsSaadMalik/yoga_verse_assignment/blob/main/sample%20screen-shots%20file.md">Check this for some viewing screen shots</a>
 
  
